@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Dragão",
+        "forca": 10,
+        "imagem": "./img/drogonhd.webp"
+    },
+    {
+        "nome": "Mago",
+        "forca": 8,
+        "imagem": "./img/ilustracao-de-feiticeiro-de-desenho-animado-desenhada-a-mao_23-2150994314.avif"
+    },
+    {
+        "nome": "Guerreiro",
+        "forca": 7,
+        "imagem": "./img/Guerreiro.webp"
+    },
+    {
+        "nome": "Cavaleiro",
+        "forca": 6,
+        "imagem": "./img/um-cavaleiro-com-uma-capa-vermelha-e-uma-capa-vermelho_1023984-28022.avif"
+    }
+]
